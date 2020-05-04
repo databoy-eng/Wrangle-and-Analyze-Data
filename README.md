@@ -1,4 +1,4 @@
-# Wrangle_and_Analyze_Data
+# Wrangle and Analyze Data
 ## Introduction
 Data wrangling is a core skill that everyone who works with data should be familiar with since so much of the world's data isn't clean. We need to wrangle our data for good outcomes, otherwise there could be consequences. If we analyze, visualize, or model our data before we wrangle it, our consequences could be making mistakes, missing out on cool insights, and wasting time. So best practices say wrangle. Always.
 
